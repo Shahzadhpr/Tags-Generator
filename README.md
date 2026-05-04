@@ -14,6 +14,12 @@ A simple yet powerful JavaScript project to help you generate, manage, and custo
 
 &nbsp;
 
+## 🔗 Project Link
+
+👉🏻 [Tags Generator](https://shahzadhpr.github.io/Tags-Generator)
+
+&nbsp;
+
 ## Technologies Used 💻
 
 - HTML  
